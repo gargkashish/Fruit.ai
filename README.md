@@ -8,7 +8,7 @@
 
 # Demo
 
-**[website link:] https://food-delivery-app-by-raihan.netlify.app/**
+**[github link:] https://https://github.com/gargkashish/Fruit.ai**
 
 ## Deployment
 
