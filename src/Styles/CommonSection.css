@@ -1,0 +1,10 @@
+.common__section {
+  background: linear-gradient(#21224528, #16162525),
+    url("../assets/images/food-banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.common__section h2 {
+  color: #fff;
+  text-align: center;
+}
